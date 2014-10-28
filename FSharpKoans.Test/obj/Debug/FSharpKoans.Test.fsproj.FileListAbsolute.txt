@@ -1,0 +1,14 @@
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\bin\Debug\FSharpKoans.Test.XML
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\bin\Debug\FSharpKoans.Test.dll
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\bin\Debug\FSharpKoans.Test.pdb
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\bin\Debug\FSharp.Core.dll
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\bin\Debug\FSharpKoans.Core.dll
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\bin\Debug\nunit.framework.dll
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\bin\Debug\nunit.mocks.dll
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\bin\Debug\pnunit.framework.dll
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\bin\Debug\FSharpKoans.Core.pdb
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\bin\Debug\FSharpKoans.Core.xml
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\bin\Debug\FSharp.Core.xml
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\bin\Debug\nunit.framework.xml
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\obj\Debug\FSharpKoans.Test.dll
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans.Test\obj\Debug\FSharpKoans.Test.pdb

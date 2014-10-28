@@ -1,0 +1,14 @@
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\bin\Debug\App.config
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.exe.config
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.exe
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.pdb
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharp.Core.dll
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.Core.dll
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\bin\Debug\nunit.framework.dll
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.Core.pdb
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharpKoans.Core.xml
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\bin\Debug\FSharp.Core.xml
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\bin\Debug\nunit.framework.xml
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\obj\x86\Debug\FSharpKoans.fsprojResolveAssemblyReference.cache
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\obj\x86\Debug\FSharpKoans.exe
+C:\Users\Andrew\Downloads\FSharpKoans-fsharp\FSharpKoans-fsharp\FSharpKoans\obj\x86\Debug\FSharpKoans.pdb
