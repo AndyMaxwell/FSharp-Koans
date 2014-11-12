@@ -84,9 +84,13 @@ module ``about strings`` =
     let ApplyWhatYouLearned() =
         (* It's time to apply what you've learned so far. Fill in the function below to
            make the asserts pass *)
-        let getFunFacts x =
-            __
-
+        let getFunFacts x =   
+            let double x =
+                x * 2             
+            let triple x =
+                x * 3  
+            sprintf "%d doubled is %d, and %d tripled is %d!" x (double(x)) x (triple(x)) 
+                    
         let funFactsAboutThree = getFunFacts 3
         let funFactsAboutSix = getFunFacts 6
 
