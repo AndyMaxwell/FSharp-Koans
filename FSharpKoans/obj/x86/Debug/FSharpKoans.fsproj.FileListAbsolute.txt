@@ -26,3 +26,17 @@ C:\Users\Andrew\Documents\GitHub\FSharp-Koans\FSharpKoans\bin\Debug\nunit.framew
 C:\Users\Andrew\Documents\GitHub\FSharp-Koans\FSharpKoans\obj\x86\Debug\FSharpKoans.fsprojResolveAssemblyReference.cache
 C:\Users\Andrew\Documents\GitHub\FSharp-Koans\FSharpKoans\obj\x86\Debug\FSharpKoans.exe
 C:\Users\Andrew\Documents\GitHub\FSharp-Koans\FSharpKoans\obj\x86\Debug\FSharpKoans.pdb
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\bin\Debug\App.config
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\bin\Debug\FSharpKoans.exe.config
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\bin\Debug\FSharpKoans.exe
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\bin\Debug\FSharpKoans.pdb
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\bin\Debug\FSharp.Core.dll
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\bin\Debug\FSharpKoans.Core.dll
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\bin\Debug\nunit.framework.dll
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\bin\Debug\FSharpKoans.Core.pdb
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\bin\Debug\FSharpKoans.Core.xml
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\bin\Debug\FSharp.Core.xml
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\bin\Debug\nunit.framework.xml
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\obj\x86\Debug\FSharpKoans.fsprojResolveAssemblyReference.cache
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\obj\x86\Debug\FSharpKoans.exe
+C:\Users\amaxwel1\Github\FSharp-Koans\FSharpKoans\obj\x86\Debug\FSharpKoans.pdb

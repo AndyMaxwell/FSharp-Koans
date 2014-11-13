@@ -62,8 +62,35 @@ module ``about the stock example`` =
             stockData
             |> Seq.skip 1
             |> Seq.map (fun tradingDay -> tradingDay.Split([|','|]))
-            |> Seq.map (fun prices -> DateTime.Parse(prices.[0]).ToString("yyyy-MM-dd"), abs(Double.Parse(prices.[1]) - Double.Parse(prices.[6])))
-            |> Seq.maxBy(snd)
+            |> Seq.map (fun prices -> prices.[0], abs(Double.Parse(prices.[1]) - Double.Parse(prices.[6])))
+            |> Seq.maxBy snd 
             |> fst
+                  
+
         
         AssertEquality "2012-03-13" result
+
+    [<Koan>]
+    let AnalyzerWithHelpers() =       
+        let splitLines (x:string) = x.Split([|','|])
+        let parsePrice = Double.Parse
+
+        let tradingDayVariance (tradingInfo:String[]) =
+            let date, openingPrice, closingPrice = tradingInfo.[0], tradingInfo.[1] |> Double.Parse, tradingInfo.[6] |> parsePrice                        
+            date, openingPrice - closingPrice |> abs
+     
+        let priceDifference = snd
+        let tradingDate = fst
+
+        let result =  
+            stockData
+            |> Seq.skip 1
+            |> Seq.map splitLines
+            |> Seq.map tradingDayVariance
+            |> Seq.maxBy priceDifference
+            |> tradingDate
+        AssertEquality "2012-03-13" result
+
+(*    [<Koan>]
+    let AnalyzerWithDataTypeProvider() = 
+        let stocks = Csv*)
