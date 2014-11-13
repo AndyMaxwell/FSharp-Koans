@@ -1,5 +1,6 @@
 ﻿namespace FSharpKoans
 open FSharpKoans.Core
+open System
 
 //---------------------------------------------------------------
 // Apply Your Knowledge!
@@ -54,9 +55,15 @@ module ``about the stock example`` =
     // Feel free to add extra [<Koan>] members here to write
     // tests for yourself along the way. You can also try 
     // using the F# Interactive window to check your progress.
-
+    // 
     [<Koan>]
-    let YouGotTheAnswerCorrect() =
-        let result =  __
+    let YouGotTheAnswerCorrect() =       
+        let result =  
+            stockData
+            |> Seq.skip 1
+            |> Seq.map (fun tradingDay -> tradingDay.Split([|','|]))
+            |> Seq.map (fun prices -> DateTime.Parse(prices.[0]).ToString("yyyy-MM-dd"), abs(Double.Parse(prices.[1]) - Double.Parse(prices.[6])))
+            |> Seq.maxBy(snd)
+            |> fst
         
         AssertEquality "2012-03-13" result
