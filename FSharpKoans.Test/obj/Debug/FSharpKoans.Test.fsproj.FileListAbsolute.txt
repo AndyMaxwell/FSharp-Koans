@@ -26,3 +26,4 @@ C:\Users\Andrew\Documents\GitHub\FSharp-Koans\FSharpKoans.Test\bin\Debug\FSharp.
 C:\Users\Andrew\Documents\GitHub\FSharp-Koans\FSharpKoans.Test\bin\Debug\nunit.framework.xml
 C:\Users\Andrew\Documents\GitHub\FSharp-Koans\FSharpKoans.Test\obj\Debug\FSharpKoans.Test.dll
 C:\Users\Andrew\Documents\GitHub\FSharp-Koans\FSharpKoans.Test\obj\Debug\FSharpKoans.Test.pdb
+C:\Users\Andrew\Documents\GitHub\FSharp-Koans\FSharpKoans.Test\obj\Debug\FSharpKoans.Test.fsprojResolveAssemblyReference.cache
